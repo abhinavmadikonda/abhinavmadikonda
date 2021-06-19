@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhinavmadikonda
 - 👀 I’m interested in cloud, k8s, design.
-- 🌱 I’m currently learning to develop personalized chatbots.
-- 💞️ I’m looking to collaborate on ML
+- 🌱 I’m currently learning react.
 - 📫 Drop a mail to abhinav.madikonda@gmail.com to reach me
 
 <!---
